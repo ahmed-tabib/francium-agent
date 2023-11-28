@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{96ccd90b-e12a-4a4e-b0d9-d403eb1d1dc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\crypto">
+      <UniqueIdentifier>{470a7d0f-7853-46e5-8eb7-ef682caad4f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\util">
+      <UniqueIdentifier>{204abc3b-fb85-4da7-8e4b-3124a9ca1273}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\inf">
+      <UniqueIdentifier>{72a4f5cd-2515-4446-b255-0ad5089e562d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\net">
+      <UniqueIdentifier>{6229537c-e670-46bc-9290-9c1e11c95188}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ext">
+      <UniqueIdentifier>{36e6305b-c7bc-4347-981d-140a4d5cc2cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\crypto\obfuscation">
+      <UniqueIdentifier>{fa24565c-d94d-44ee-8e03-e56fde0752b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\crypto\encryption">
+      <UniqueIdentifier>{7219da53-da19-4994-9319-1451a23e2add}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\crypto\encoding">
+      <UniqueIdentifier>{566fb87d-b8d5-47e6-aaa3-d6a359cd32a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\crypto\rng">
+      <UniqueIdentifier>{f795660d-2feb-40a5-8579-6031861369f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\crypto\mnr">
+      <UniqueIdentifier>{3a25b2ba-b3be-4d01-a770-14560258d75e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\net\c2">
+      <UniqueIdentifier>{44a40e2d-a6ab-45bb-8fa0-8f295c6c255c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\net\socket.cpp">
+      <Filter>src\net</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\net\socks5_client.cpp">
+      <Filter>src\net</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\util\endianness.cpp">
+      <Filter>src\util</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\crypto\mnr\job.cpp">
+      <Filter>src\crypto\mnr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\util\sysinfo.cpp">
+      <Filter>src\util</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\util\affinity.cpp">
+      <Filter>src\util</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\crypto\mnr\job_exec.cpp">
+      <Filter>src\crypto\mnr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\crypto\mnr\job_result.cpp">
+      <Filter>src\crypto\mnr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\crypto\mnr\controller.cpp">
+      <Filter>src\crypto\mnr</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\version.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\tor_addresses.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\crypto\obfuscation\o_string.h">
+      <Filter>src\crypto\obfuscation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\net\socket.h">
+      <Filter>src\net</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\net\socks5_client.h">
+      <Filter>src\net</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\util\endianness.h">
+      <Filter>src\util</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\crypto\encoding\base10.h">
+      <Filter>src\crypto\encoding</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\crypto\mnr\job.h">
+      <Filter>src\crypto\mnr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\util\sysinfo.h">
+      <Filter>src\util</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\util\affinity.h">
+      <Filter>src\util</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\crypto\mnr\job_exec.h">
+      <Filter>src\crypto\mnr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\crypto\mnr\job_result.h">
+      <Filter>src\crypto\mnr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\ext\randomx\randomx.h">
+      <Filter>src\ext</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\crypto\mnr\controller.h">
+      <Filter>src\crypto\mnr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\net\c2\fields.h">
+      <Filter>src\net\c2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\net\c2\messages.h">
+      <Filter>src\net\c2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,481 @@
+﻿  Assembling ..\src\jit_compiler_x86_static.asm...
+  allocator.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\allocator.cpp(46,65): warning C4100: 'count': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\allocator.cpp(46): message : while compiling class template member function 'void randomx::AlignedAllocator<64>::freeMemory(void *,size_t)'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\allocator.cpp(50): message : see reference to class template instantiation 'randomx::AlignedAllocator<64>' being compiled
+  assembly_generator_x86.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\assembly_generator_x86.cpp(242,51): warning C4100: 'instr': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\assembly_generator_x86.cpp(248,51): warning C4100: 'instr': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\assembly_generator_x86.cpp(472,63): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\assembly_generator_x86.cpp(477,62): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\assembly_generator_x86.cpp(484,62): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\assembly_generator_x86.cpp(492,62): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\assembly_generator_x86.cpp(499,62): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\assembly_generator_x86.cpp(507,63): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\assembly_generator_x86.cpp(513,62): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\assembly_generator_x86.cpp(520,62): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\assembly_generator_x86.cpp(530,63): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\assembly_generator_x86.cpp(536,63): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\assembly_generator_x86.cpp(554,39): warning C4127: conditional expression is constant
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\assembly_generator_x86.cpp(565,62): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\assembly_generator_x86.cpp(571,59): warning C4100: 'i': unreferenced formal parameter
+  blake2_generator.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\blake2\blake2.h(82,25): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\blake2\blake2.h(84,3): warning C4804: '/': unsafe use of type 'bool' in operation
+  bytecode_machine.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(145,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(145,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(145,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(149,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(149,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(153,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(153,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(153,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(157,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(157,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(161,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(161,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(161,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(165,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(165,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(169,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(169,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(169,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(173,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(173,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(177,28): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(177,28): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(177,28): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(181,28): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(181,28): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(185,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(185,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(185,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(189,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(189,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(189,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(193,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(193,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(197,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(197,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(197,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(201,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(201,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(201,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(205,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(205,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(205,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(211,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(211,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(211,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(215,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(215,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(215,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(219,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(219,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(224,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(224,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(224,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(228,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(228,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(233,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(233,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(233,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(238,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(238,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(238,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(242,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(250,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(250,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(250,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(254,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(254,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(262,44): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(261,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(261,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(261,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(265,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(265,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.cpp(91,34): warning C4244: '=': conversion from 'int' to 'uint16_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.cpp(96,34): warning C4244: '=': conversion from 'int' to 'uint16_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.cpp(440,35): warning C4244: '=': conversion from 'int' to 'int16_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.cpp(443,40): warning C4127: conditional expression is constant
+  cpu.cpp
+  vm_compiled_light.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36,18): warning C4099: 'randomx_vm': type name first seen using 'struct' now seen using 'class'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36): message : see declaration of 'randomx_vm'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(42,43): warning C4100: 'dataset': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(43,39): warning C4100: 'cache': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.hpp(107,15): warning C4267: '+=': conversion from 'size_t' to 'int32_t', possible loss of data
+D : \dev\francium_network\francium_agent\src\ext\randomx\repo\src\dataset.hpp(69)  warning : check std::is_standard_layout<randomx_cache>() is disabled for Debug configuration. JIT mode will crash.
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_compiled_light.hpp(49,36): warning C4100: 'dataset': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_compiled_light.hpp(49): message : while compiling class template member function 'void randomx::CompiledLightVm<randomx::LargePageAllocator,true,true>::setDataset(randomx_dataset *)'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_compiled_light.cpp(69): message : see reference to class template instantiation 'randomx::CompiledLightVm<randomx::LargePageAllocator,true,true>' being compiled
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_compiled_light.cpp(55,50): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_compiled_light.cpp(49): message : while compiling class template member function 'void randomx::CompiledLightVm<randomx::AlignedAllocator<64>,true,false>::run(void *)'
+  vm_compiled.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36,18): warning C4099: 'randomx_vm': type name first seen using 'struct' now seen using 'class'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36): message : see declaration of 'randomx_vm'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(42,43): warning C4100: 'dataset': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(43,39): warning C4100: 'cache': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.hpp(107,15): warning C4267: '+=': conversion from 'size_t' to 'int32_t', possible loss of data
+D : \dev\francium_network\francium_agent\src\ext\randomx\repo\src\dataset.hpp(69)  warning : check std::is_standard_layout<randomx_cache>() is disabled for Debug configuration. JIT mode will crash.
+  dataset.cpp
+D : \dev\francium_network\francium_agent\src\ext\randomx\repo\src\dataset.hpp(69)  warning : check std::is_standard_layout<randomx_cache>() is disabled for Debug configuration. JIT mode will crash.
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.hpp(107,15): warning C4267: '+=': conversion from 'size_t' to 'int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\dataset.cpp(135,50): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  aes_hash.cpp
+  instruction.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\instruction.cpp(305,8): warning C4189: 'srcIndex': local variable is initialized but not referenced
+  instructions_portable.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\instructions_portable.cpp(63,6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\instructions_portable.cpp(70,6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\instructions_portable.cpp(80,3): warning C4996: '_controlfp': This function or variable may be unsafe. Consider using _controlfp_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\instructions_portable.cpp(79,14): warning C4505: 'setRoundMode_': unreferenced function with internal linkage has been removed
+  vm_interpreted_light.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36,18): warning C4099: 'randomx_vm': type name first seen using 'struct' now seen using 'class'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36): message : see declaration of 'randomx_vm'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(42,43): warning C4100: 'dataset': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(43,39): warning C4100: 'cache': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(145,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(145,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(145,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(149,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(149,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(153,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(153,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(153,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(157,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(157,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(161,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(161,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(161,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(165,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(165,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(169,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(169,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(169,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(173,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(173,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(177,28): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(177,28): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(177,28): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(181,28): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(181,28): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(185,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(185,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(185,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(189,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(189,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(189,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(193,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(193,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(197,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(197,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(197,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(201,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(201,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(201,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(205,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(205,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(205,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(211,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(211,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(211,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(215,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(215,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(215,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(219,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(219,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(224,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(224,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(224,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(228,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(228,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(233,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(233,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(233,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(238,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(238,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(238,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(242,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(250,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(250,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(250,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(254,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(254,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(262,44): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(261,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(261,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(261,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(265,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(265,26): warning C4100: 'pc': unreferenced formal parameter
+D : \dev\francium_network\francium_agent\src\ext\randomx\repo\src\dataset.hpp(69)  warning : check std::is_standard_layout<randomx_cache>() is disabled for Debug configuration. JIT mode will crash.
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_interpreted_light.hpp(54,33): warning C4100: 'address': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_interpreted_light.hpp(54): message : while compiling class template member function 'void randomx::InterpretedLightVm<randomx::LargePageAllocator,true>::datasetPrefetch(uint64_t)'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_interpreted_light.cpp(54): message : see reference to class template instantiation 'randomx::InterpretedLightVm<randomx::LargePageAllocator,true>' being compiled
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_interpreted_light.hpp(50,36): warning C4100: 'dataset': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_interpreted_light.hpp(50): message : while compiling class template member function 'void randomx::InterpretedLightVm<randomx::LargePageAllocator,true>::setDataset(randomx_dataset *)'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_interpreted_light.cpp(42,23): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_interpreted_light.cpp(41): message : while compiling class template member function 'void randomx::InterpretedLightVm<randomx::AlignedAllocator<64>,true>::datasetRead(uint64_t,randomx::int_reg_t (&)[8])'
+  vm_interpreted.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36,18): warning C4099: 'randomx_vm': type name first seen using 'struct' now seen using 'class'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36): message : see declaration of 'randomx_vm'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(42,43): warning C4100: 'dataset': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(43,39): warning C4100: 'cache': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(145,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(145,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(145,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(149,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(149,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(153,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(153,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(153,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(157,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(157,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(161,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(161,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(161,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(165,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(165,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(169,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(169,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(169,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(173,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(173,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(177,28): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(177,28): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(177,28): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(181,28): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(181,28): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(185,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(185,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(185,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(189,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(189,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(189,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(193,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(193,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(197,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(197,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(197,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(201,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(201,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(201,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(205,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(205,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(205,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(211,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(211,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(211,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(215,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(215,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(215,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(219,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(219,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(224,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(224,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(224,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(228,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(228,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(233,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(233,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(233,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(238,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(238,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(238,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(242,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(250,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(250,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(250,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(254,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(254,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(262,44): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(261,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(261,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(261,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(265,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(265,26): warning C4100: 'pc': unreferenced formal parameter
+D : \dev\francium_network\francium_agent\src\ext\randomx\repo\src\dataset.hpp(69)  warning : check std::is_standard_layout<randomx_cache>() is disabled for Debug configuration. JIT mode will crash.
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_interpreted.cpp(58,1): warning C4458: declaration of 'nreg' hides class member
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(280,23): message : see declaration of 'randomx::BytecodeMachine::nreg'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_interpreted.cpp(56): message : while compiling class template member function 'void randomx::InterpretedVm<randomx::AlignedAllocator<64>,true>::execute(void)'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_interpreted.cpp(52): message : see reference to function template instantiation 'void randomx::InterpretedVm<randomx::AlignedAllocator<64>,true>::execute(void)' being compiled
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_interpreted.cpp(128): message : see reference to class template instantiation 'randomx::InterpretedVm<randomx::AlignedAllocator<64>,true>' being compiled
+  jit_compiler_x86.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.hpp(107,15): warning C4267: '+=': conversion from 'size_t' to 'int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(120,45): warning C4244: 'initializing': conversion from '__int64' to 'int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(120,29): warning C4244: 'initializing': conversion from '__int64' to 'const int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(121,47): warning C4244: 'initializing': conversion from '__int64' to 'int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(121,29): warning C4244: 'initializing': conversion from '__int64' to 'const int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(122,62): warning C4244: 'initializing': conversion from '__int64' to 'int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(122,32): warning C4244: 'initializing': conversion from '__int64' to 'const int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(123,70): warning C4244: 'initializing': conversion from '__int64' to 'int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(123,41): warning C4244: 'initializing': conversion from '__int64' to 'const int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(124,56): warning C4244: 'initializing': conversion from '__int64' to 'int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(124,40): warning C4244: 'initializing': conversion from '__int64' to 'const int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(125,44): warning C4244: 'initializing': conversion from '__int64' to 'int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(125,30): warning C4244: 'initializing': conversion from '__int64' to 'const int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(126,47): warning C4244: 'initializing': conversion from '__int64' to 'int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(126,32): warning C4244: 'initializing': conversion from '__int64' to 'const int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(127,43): warning C4244: 'initializing': conversion from '__int64' to 'int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(127,29): warning C4244: 'initializing': conversion from '__int64' to 'const int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(128,50): warning C4244: 'initializing': conversion from '__int64' to 'int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(128,32): warning C4244: 'initializing': conversion from '__int64' to 'const int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(129,49): warning C4244: 'initializing': conversion from '__int64' to 'int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(129,36): warning C4244: 'initializing': conversion from '__int64' to 'const int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(130,49): warning C4244: 'initializing': conversion from '__int64' to 'int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(130,32): warning C4244: 'initializing': conversion from '__int64' to 'const int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(319,17): warning C4244: 'argument': conversion from 'uint32_t' to 'uint8_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(321,17): warning C4244: 'argument': conversion from 'uint32_t' to 'uint8_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(326,17): warning C4244: 'argument': conversion from 'uint32_t' to 'uint8_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(328,17): warning C4244: 'argument': conversion from 'uint32_t' to 'uint8_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(324,56): warning C4100: 'prog': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(501,40): warning C4244: 'argument': conversion from 'int' to 'uint8_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(702,57): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(708,56): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(715,56): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(723,56): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(730,56): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(738,57): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(744,56): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(751,56): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(760,57): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(772,13): warning C4244: 'argument': conversion from 'int' to 'uint8_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(766,57): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(781,17): warning C4244: 'argument': conversion from 'int' to 'uint8_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(784,39): warning C4127: conditional expression is constant
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(788,17): warning C4244: 'argument': conversion from 'int' to 'uint8_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(798,56): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(805,53): warning C4100: 'i': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(805,42): warning C4100: 'instr': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(279,19): warning C4244: 'argument': conversion from 'int' to 'uint8_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.cpp(296): message : see reference to function template instantiation 'void randomx::JitCompilerX86::generateSuperscalarHash<8>(randomx::SuperscalarProgram (&)[8],std::vector<uint64_t,std::allocator<uint64_t>> &)' being compiled
+  randomx.cpp
+D : \dev\francium_network\francium_agent\src\ext\randomx\repo\src\dataset.hpp(69)  warning : check std::is_standard_layout<randomx_cache>() is disabled for Debug configuration. JIT mode will crash.
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36,18): warning C4099: 'randomx_vm': type name first seen using 'struct' now seen using 'class'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36): message : see declaration of 'randomx_vm'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(42,43): warning C4100: 'dataset': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(43,39): warning C4100: 'cache': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(145,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(145,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(145,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(149,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(149,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(153,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(153,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(153,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(157,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(157,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(161,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(161,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(161,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(165,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(165,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(169,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(169,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(169,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(173,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(173,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(177,28): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(177,28): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(177,28): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(181,28): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(181,28): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(185,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(185,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(185,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(189,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(189,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(189,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(193,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(193,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(197,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(197,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(197,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(201,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(201,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(201,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(205,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(205,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(205,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(211,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(211,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(211,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(215,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(215,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(215,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(219,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(219,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(224,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(224,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(224,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(228,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(228,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(233,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(233,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(233,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(238,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(238,26): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(238,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(242,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(250,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(250,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(250,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(254,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(254,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(262,44): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(261,27): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(261,27): warning C4100: 'scratchpad': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(261,27): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(265,26): warning C4100: 'config': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(265,26): warning C4100: 'pc': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\jit_compiler_x86.hpp(107,15): warning C4267: '+=': conversion from 'size_t' to 'int32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\blake2\blake2.h(82,25): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\blake2\blake2.h(84,3): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\randomx.cpp(110,26): warning C4101: 'ex': unreferenced local variable
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\randomx.cpp(159,26): warning C4101: 'ex': unreferenced local variable
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\randomx.cpp(321,26): warning C4101: 'ex': unreferenced local variable
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_compiled_light.hpp(49,36): warning C4100: 'dataset': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_compiled_light.hpp(49): message : while compiling class template member function 'void randomx::CompiledLightVm<randomx::LargePageAllocator,false,false>::setDataset(randomx_dataset *)'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\randomx.cpp(294): message : see reference to class template instantiation 'randomx::CompiledLightVm<randomx::LargePageAllocator,false,false>' being compiled
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_interpreted_light.hpp(54,33): warning C4100: 'address': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_interpreted_light.hpp(54): message : while compiling class template member function 'void randomx::InterpretedLightVm<randomx::LargePageAllocator,false>::datasetPrefetch(uint64_t)'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\randomx.cpp(282): message : see reference to class template instantiation 'randomx::InterpretedLightVm<randomx::LargePageAllocator,false>' being compiled
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_interpreted_light.hpp(50,36): warning C4100: 'dataset': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_interpreted_light.hpp(50): message : while compiling class template member function 'void randomx::InterpretedLightVm<randomx::LargePageAllocator,false>::setDataset(randomx_dataset *)'
+  superscalar.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\superscalar.cpp(160,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\superscalar.cpp(360,31): warning C4244: '=': conversion from 'int' to 'uint8_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\superscalar.cpp(361,16): warning C4244: '=': conversion from 'int' to 'uint8_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\superscalar.cpp(362,21): warning C4244: '=': conversion from 'int' to 'uint8_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\superscalar.cpp(363,17): warning C4244: 'argument': conversion from 'int' to 'uint8_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\superscalar.cpp(367,91): warning C4100: 'isFirst': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\superscalar.cpp(510,58): warning C4389: '!=': signed/unsigned mismatch
+  soft_aes.cpp
+  virtual_machine.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36,18): warning C4099: 'randomx_vm': type name first seen using 'struct' now seen using 'class'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36): message : see declaration of 'randomx_vm'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(42,43): warning C4100: 'dataset': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(43,39): warning C4100: 'cache': unreferenced formal parameter
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\blake2\blake2.h(82,25): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\blake2\blake2.h(84,3): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.cpp(82,29): warning C4244: '=': conversion from 'uint64_t' to 'randomx::addr_t', possible loss of data
+  virtual_memory.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_memory.cpp(183,45): warning C4100: 'bytes': unreferenced formal parameter
+  Generating Code...
+  argon2_avx2.c
+  argon2_core.c
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\argon2_core.c(387,6): warning C4189: 'result': local variable is initialized but not referenced
+  argon2_ref.c
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\argon2_ref.c(113,8): warning C4101: 'address_block': unreferenced local variable
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\argon2_ref.c(113,23): warning C4101: 'input_block': unreferenced local variable
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\argon2_ref.c(113,36): warning C4101: 'zero_block': unreferenced local variable
+  argon2_ssse3.c
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\argon2_ssse3.c(106,8): warning C4101: 'address_block': unreferenced local variable
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\argon2_ssse3.c(106,23): warning C4101: 'input_block': unreferenced local variable
+  blake2b.c
+  reciprocal.c
+  Generating Code...
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\argon2_ssse3.c(52): warning C4702: unreachable code
+  randomx.vcxproj -> D:\dev\francium_network\francium_agent\src\ext\randomx\repo\x64\Debug\randomx.lib

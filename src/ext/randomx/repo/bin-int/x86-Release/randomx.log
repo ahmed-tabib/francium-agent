@@ -1,0 +1,67 @@
+﻿  Assembling ..\src\jit_compiler_x86_static.asm...
+  allocator.cpp
+  assembly_generator_x86.cpp
+  blake2_generator.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\blake2\blake2.h(82,25): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\blake2\blake2.h(84,3): warning C4804: '/': unsafe use of type 'bool' in operation
+  bytecode_machine.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(262,44): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+  cpu.cpp
+  vm_compiled_light.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36,18): warning C4099: 'randomx_vm': type name first seen using 'struct' now seen using 'class'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36): message : see declaration of 'randomx_vm'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_compiled_light.cpp(55,50): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_compiled_light.cpp(49): message : while compiling class template member function 'void randomx::CompiledLightVm<randomx::AlignedAllocator<64>,true,false>::run(void *)'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_compiled_light.cpp(63): message : see reference to class template instantiation 'randomx::CompiledLightVm<randomx::AlignedAllocator<64>,true,false>' being compiled
+  vm_compiled.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36,18): warning C4099: 'randomx_vm': type name first seen using 'struct' now seen using 'class'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36): message : see declaration of 'randomx_vm'
+  dataset.cpp
+  aes_hash.cpp
+  instruction.cpp
+  instructions_portable.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\instructions_portable.cpp(63,6): warning C4003: not enough arguments for function-like macro invocation 'HAS_VALUE'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\instructions_portable.cpp(70,6): warning C4003: not enough arguments for function-like macro invocation 'HAS_VALUE'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\instructions_portable.cpp(80,3): warning C4996: '_controlfp': This function or variable may be unsafe. Consider using _controlfp_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  vm_interpreted_light.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36,18): warning C4099: 'randomx_vm': type name first seen using 'struct' now seen using 'class'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36): message : see declaration of 'randomx_vm'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(262,44): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_interpreted_light.cpp(42,23): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_interpreted_light.cpp(41): message : while compiling class template member function 'void randomx::InterpretedLightVm<randomx::AlignedAllocator<64>,true>::datasetRead(uint64_t,randomx::int_reg_t (&)[8])'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\vm_interpreted_light.cpp(52): message : see reference to class template instantiation 'randomx::InterpretedLightVm<randomx::AlignedAllocator<64>,true>' being compiled
+  vm_interpreted.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36,18): warning C4099: 'randomx_vm': type name first seen using 'struct' now seen using 'class'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36): message : see declaration of 'randomx_vm'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(262,44): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+  jit_compiler_x86.cpp
+  randomx.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36,18): warning C4099: 'randomx_vm': type name first seen using 'struct' now seen using 'class'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36): message : see declaration of 'randomx_vm'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\bytecode_machine.hpp(262,44): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\blake2\blake2.h(82,25): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\blake2\blake2.h(84,3): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\randomx.cpp(110,26): warning C4101: 'ex': unreferenced local variable
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\randomx.cpp(159,26): warning C4101: 'ex': unreferenced local variable
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\randomx.cpp(321,26): warning C4101: 'ex': unreferenced local variable
+  superscalar.cpp
+  soft_aes.cpp
+  virtual_machine.cpp
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36,18): warning C4099: 'randomx_vm': type name first seen using 'struct' now seen using 'class'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.hpp(36): message : see declaration of 'randomx_vm'
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\blake2\blake2.h(82,25): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\blake2\blake2.h(84,3): warning C4804: '/': unsafe use of type 'bool' in operation
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\virtual_machine.cpp(82,29): warning C4244: '=': conversion from 'uint64_t' to 'randomx::addr_t', possible loss of data
+  virtual_memory.cpp
+  argon2_avx2.c
+  argon2_core.c
+  argon2_ref.c
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\argon2_ref.c(113,8): warning C4101: 'address_block': unreferenced local variable
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\argon2_ref.c(113,23): warning C4101: 'input_block': unreferenced local variable
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\argon2_ref.c(113,36): warning C4101: 'zero_block': unreferenced local variable
+  argon2_ssse3.c
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\argon2_ssse3.c(106,8): warning C4101: 'address_block': unreferenced local variable
+D:\dev\francium_network\francium_agent\src\ext\randomx\repo\src\argon2_ssse3.c(106,23): warning C4101: 'input_block': unreferenced local variable
+  blake2b.c
+  reciprocal.c
+  randomx.vcxproj -> D:\dev\francium_network\francium_agent\src\ext\randomx\repo\bin\x86-Release\randomx.lib
