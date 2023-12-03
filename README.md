@@ -1,4 +1,4 @@
-# Francium-agent: A PoC malware agent with XMR mining Capabilities
+# Francium-agent: A PoC malware agent with XMR mining capabilities
 
 Francium-agent is an open-source Proof-of-Concept agent for a monero mining network. The project is made as a display of skill only and is mostly non-functional out of the box, any malicious use is the responsibility of the user only.
 
